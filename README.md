@@ -1,4 +1,4 @@
-# N-Queens Problem: Local Search Approximation Algorithms
+# N-Queens Problem: Local Search Algorithms
 
 This project implements several search algorithms to solve the N-Queens problem, including Hill Climbing, Simulated Annealing, and Genetic Algorithm. Each algorithm aims to efficiently place N queens on an N×N chessboard such that no two queens attack each other.
 
